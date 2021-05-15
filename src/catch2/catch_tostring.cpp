@@ -24,8 +24,6 @@ namespace Catch {
 
 namespace Detail {
 
-    const std::string unprintableString = "{?}";
-
     namespace {
         const int hexThreshold = 255;
 
